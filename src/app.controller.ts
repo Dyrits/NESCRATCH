@@ -5,6 +5,6 @@ export class AppController {
 
   @Get()
   getRootRoute() {
-    return "Hello World!";
+    return "Bonjour le monde !";
   }
 }
